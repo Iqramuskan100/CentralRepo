@@ -1,3 +1,7 @@
 I am trying to learn stashing in git
 
+<<<<<<< Updated upstream
 now I have put the file in stashing
+=======
+stashing stashing stashing
+>>>>>>> Stashed changes
